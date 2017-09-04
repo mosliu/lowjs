@@ -19,7 +19,5 @@
     "url": "https://github.com/mosliu/lowjs/issues"
   },
   "homepage": "https://github.com/mosliu/lowjs#readme",
-  "dependencies": {
-    "request": "^2.81.0"
-  }
+  "dependencies": {}
 }
